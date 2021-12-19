@@ -1,0 +1,16 @@
+app\sa\reto5mintic\app\repository\VegetarianRepository.class
+app\sa\reto5mintic\app\service\VegetarianService.class
+app\sa\reto5mintic\app\service\VegetarianCrudRepository.class
+app\sa\reto5mintic\app\repository\OrderRepository.class
+app\sa\reto5mintic\app\repository\crud\OrderCrudRepository.class
+app\sa\reto5mintic\app\controller\UserController.class
+app\sa\reto5mintic\app\model\User.class
+app\sa\reto5mintic\app\model\Vegetarian.class
+app\sa\reto5mintic\app\model\Order.class
+app\sa\reto5mintic\app\service\OrderService.class
+app\sa\reto5mintic\app\controller\VegetarianController.class
+app\sa\reto5mintic\app\AppApplication.class
+app\sa\reto5mintic\app\controller\OrderController.class
+app\sa\reto5mintic\app\repository\UserRepository.class
+app\sa\reto5mintic\app\service\UserService.class
+app\sa\reto5mintic\app\repository\crud\UserCrudRepository.class
